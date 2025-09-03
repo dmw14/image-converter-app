@@ -53,10 +53,10 @@ A modern web application that allows users to convert images between different f
 git clone https://github.com/your-username/image-converter-app.git
 cd image-converter-app
 
-###2️⃣ Install dependencies
+#Install dependencies
 npm install
 
-###3️⃣ Run development server
+#Run development server
 npm run dev
 
 Visit http://localhost:3000 in your browser.
