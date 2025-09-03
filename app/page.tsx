@@ -44,9 +44,7 @@ export default function HomePage() {
           </div>
           <div className="rounded-lg border bg-card">
             <img
-              src={
-                "/placeholder.svg?height=320&width=560&query=illustration%20of%20image%20conversion%20arrows%20between%20jpg%2C%20png%2C%20webp"
-              }
+              src={"/Hero img.png"}
               alt="Illustration showing JPG, PNG, and WebP conversion"
               className="w-full h-auto rounded-lg"
             />
@@ -65,7 +63,7 @@ export default function HomePage() {
             </CardHeader>
             <CardContent>
               <img
-                src={"/placeholder.svg?height=120&width=240&query=icons%20for%20png%2C%20jpeg%2C%20webp"}
+                src={"/multiple formats.png"}
                 alt="Icons representing PNG, JPEG, and WebP formats"
                 className="w-full h-auto rounded"
               />
@@ -79,7 +77,7 @@ export default function HomePage() {
             </CardHeader>
             <CardContent>
               <img
-                src={"/placeholder.svg?height=120&width=240&query=browser%20shield%20privacy%20illustration"}
+                src={"/no browser needed.png"}
                 alt="Browser privacy shield illustration"
                 className="w-full h-auto rounded"
               />
@@ -93,7 +91,7 @@ export default function HomePage() {
             </CardHeader>
             <CardContent>
               <img
-                src={"/placeholder.svg?height=120&width=240&query=sliders%20and%20quality%20controls"}
+                src={"/quality slider.png"}
                 alt="Quality control sliders illustration"
                 className="w-full h-auto rounded"
               />

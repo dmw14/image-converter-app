@@ -5,9 +5,8 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Img Type Converter',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Image File Converter',
+  description: 'A simple and fast tool to convert images between formats.',
 }
 
 export default function RootLayout({
